@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**mkw8263/mkw8263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmkw8263)](https://hits.seeyoufarm.com)
+</div>
 
-Here are some ideas to get you started:
+### Software Engineer
+- Native Mobile, CrossPlatform Mobile, Rest Api Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language
+- Kotlin, Java, JS&TS, Dart, Golang
+
+### Interest
+- Native Android, Flutter, Docker, AWS
+
+
+<div align=center>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mindev/)](https://www.linkedin.com/in/mindev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruddns8213@gmail.com)](mailto:ruddns8213@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-lightgrey?style=flat-square&logo=medium&link=https://medium.com/@ruddns8213/)](https://medium.com/@ruddns8213/)
+</div>
+
