@@ -4,13 +4,13 @@
 </div>
 
 ### Software Engineer
-- Native Mobile, CrossPlatform Mobile, Rest Api Server
+- Native Mobile, CrossPlatform(Flutter) Mobile, Rest Api Server(go, node)
 
 ### Language
 - Kotlin, Java, JS&TS, Dart, Golang
 
 ### Interest
-- Native Android, Flutter, Docker, AWS
+- Native Android, Flutter, Docker and... :car:
 
 
 <div align=center>
