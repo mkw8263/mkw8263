@@ -10,7 +10,7 @@
 - Kotlin, Java, JS&TS, Dart, Golang
 
 ### Interest
-- Native Android, Flutter, Docker and... :car:
+- Native Android, Flutter, BackEnd Dev and... :car:
 
 
 <div align=center>
