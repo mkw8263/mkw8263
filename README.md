@@ -3,16 +3,27 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmkw8263)](https://hits.seeyoufarm.com)
 </div>
 
-### Software Engineer
-- Native Mobile, CrossPlatform(Flutter) Mobile, Rest Api Server(go, node)
+### Hello :smiley:
+I am gyeongun min and junior developer <br>
+I love development.. just kidding :grin: <br>
+If you are interested in me, send me Gmail.
 
-### Language
+### Software Engineer :computer:
+- Native Mobile(Android), CrossPlatform(Flutter) Mobile, Rest Api Server(go, node)
+
+### Language :books:
 - Kotlin, Java, JS&TS, Dart, Golang
 
-### Interest
-- Native Android, Flutter, BackEnd Dev and... :car:
+### Interest :heart_eyes:
+- I enjoy developing natural android using `Rx or Coroutine` along with `clean architecture and mvvm pattern.`
+- I like `functional language` very much.
+- I like flutter among cross-platforms and I like to develop it based on `bloc pattern.`
+- I have been interested in building a server infrastructure environment and basic rest api recently.
 
-
+### Other than.. :sunglasses:
+- I'm crazy about cars :red_car:
+- I was good at blogging, but I failed :sob:
+- I like drinking :beers:
 <div align=center>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mindev/)](https://www.linkedin.com/in/mindev/)
