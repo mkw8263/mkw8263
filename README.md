@@ -15,7 +15,7 @@ If you are interested in me, send me Gmail.
 - Kotlin, Java, JS&TS, Dart, Golang
 
 ### Interest :heart_eyes:
-- I enjoy developing natural android using `Rx or Coroutine` along with `clean architecture and mvvm pattern.`
+- I enjoy developing native android using `Rx or Coroutine` along with `clean architecture and mvvm pattern.`
 - I like `functional language` very much.
 - I like flutter among cross-platforms and I like to develop it based on `bloc pattern.`
 - I have been interested in building a server infrastructure environment and basic rest api recently.
