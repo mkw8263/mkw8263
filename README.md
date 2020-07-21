@@ -1,14 +1,14 @@
-<div align=center>
+### Hello :smiley: I'm gyeongunMin
+<div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmkw8263)](https://hits.seeyoufarm.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mindev/)](https://www.linkedin.com/in/mindev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruddns8213@gmail.com)](mailto:ruddns8213@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-lightgrey?style=flat-square&logo=medium&link=https://medium.com/@ruddns8213/)](https://medium.com/@ruddns8213/)
+
 </div>
 
 ![Mindev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkw8263&show_icons=true)
-
-## Hello :smiley:
-I am gyeongun min and junior developer <br>
-I love development.. just kidding :grin: <br>
-If you are interested in me, send me Gmail.
 
 ## Software Engineer :computer:
 - Native Mobile(Android), CrossPlatform(Flutter) Mobile, Rest Api Server(go, node)
@@ -33,10 +33,3 @@ If you are interested in me, send me Gmail.
 - I'm crazy about cars :red_car:
 - I was good at blogging, but I failed :sob:
 - I like drinking :beers:
-<div align=center>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mindev/)](https://www.linkedin.com/in/mindev/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruddns8213@gmail.com)](mailto:ruddns8213@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-lightgrey?style=flat-square&logo=medium&link=https://medium.com/@ruddns8213/)](https://medium.com/@ruddns8213/)
-</div>
-
