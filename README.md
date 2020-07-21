@@ -3,12 +3,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmkw8263)](https://hits.seeyoufarm.com)
 </div>
 
+![Mindev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkw8263&show_icons=true)
+
 ### Hello :smiley:
 I am gyeongun min and junior developer <br>
 I love development.. just kidding :grin: <br>
 If you are interested in me, send me Gmail.
-
-![Mindev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkw8263&show_icons=true)
 
 ### Software Engineer :computer:
 - Native Mobile(Android), CrossPlatform(Flutter) Mobile, Rest Api Server(go, node)
