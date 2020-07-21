@@ -23,8 +23,8 @@
 - I have been interested in building a server infrastructure environment and basic rest api recently.
 
 ## Ask me about 👀
- - Kotlin, Java
- - Android Platform
+ - Kotlin, Java, JS&TS
+ - Android Platform, Cross Platform(Flutter)
  - Architecture & Pattern(mvc, mvp, mvvm, mvi..)
  - Reative Programming, functional Programming, Coroutine
  - BackEnd Infrastructure
