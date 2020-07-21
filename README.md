@@ -5,24 +5,31 @@
 
 ![Mindev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkw8263&show_icons=true)
 
-### Hello :smiley:
+## Hello :smiley:
 I am gyeongun min and junior developer <br>
 I love development.. just kidding :grin: <br>
 If you are interested in me, send me Gmail.
 
-### Software Engineer :computer:
+## Software Engineer :computer:
 - Native Mobile(Android), CrossPlatform(Flutter) Mobile, Rest Api Server(go, node)
 
-### Language :books:
+## Language :books:
 - Kotlin, Java, JS&TS, Dart, Golang
 
-### Interest :heart_eyes:
+## Interest :heart_eyes:
 - I enjoy developing native android using `Rx or Coroutine` along with `clean architecture and mvvm pattern.`
 - I like `functional language` very much.
 - I like flutter among cross-platforms and I like to develop it based on `bloc pattern.`
 - I have been interested in building a server infrastructure environment and basic rest api recently.
 
-### Other than.. :sunglasses:
+## Ask me about 👀
+ - Kotlin, Java
+ - Android Platform
+ - Architecture & Pattern(mvc, mvp, mvvm, mvi..)
+ - Reative Programming, functional Programming, Coroutine
+ - BackEnd Infrastructure
+
+## Other than.. :sunglasses:
 - I'm crazy about cars :red_car:
 - I was good at blogging, but I failed :sob:
 - I like drinking :beers:
