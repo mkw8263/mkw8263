@@ -8,6 +8,8 @@ I am gyeongun min and junior developer <br>
 I love development.. just kidding :grin: <br>
 If you are interested in me, send me Gmail.
 
+![Mindev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkw8263&show_icons=true&theme=highcontrast)
+
 ### Software Engineer :computer:
 - Native Mobile(Android), CrossPlatform(Flutter) Mobile, Rest Api Server(go, node)
 
