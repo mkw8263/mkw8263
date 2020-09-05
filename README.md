@@ -9,7 +9,7 @@
 </div>
 
 ![Mindev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkw8263&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkw8263&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Software Engineer :computer:
 - Native Mobile(Android), CrossPlatform(Flutter) Mobile, Rest Api Server(go, node)
 
