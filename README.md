@@ -31,5 +31,4 @@
 
 ## Other than.. :sunglasses:
 - I'm crazy about cars :red_car:
-- I was good at blogging, but I failed :sob:
 - I like drinking :beers:
