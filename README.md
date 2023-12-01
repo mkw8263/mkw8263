@@ -14,7 +14,7 @@
 - Native Mobile(Android), CrossPlatform(Flutter) Mobile, Rest Api Server(go, node)
 
 ## Language :books:
-- Kotlin, Java, JS&TS, Dart, Golang
+- Kotlin, Java, JS&TS, Dart
 
 ## Interest :heart_eyes:
 - I like `functional language` very much.
@@ -24,7 +24,6 @@
 ## Ask me about 👀
  - Kotlin, Java, JS&TS
  - Android Platform, Cross Platform(Flutter)
- - Architecture & Pattern(mvc, mvp, mvvm, mvi..)
  - Reative Programming, functional Programming, Coroutine
  - BackEnd Infrastructure
 
